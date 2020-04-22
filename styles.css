@@ -1,0 +1,27 @@
+#board {
+    padding: 3em;
+    text-align: center;
+}
+
+h1  {
+    text-align: center;
+}
+
+div > .Row {
+    float: left;
+    height: 100px;
+    width: 302px;
+    clear: both;
+    margin: auto;
+
+}
+
+.top-left {
+    border-bottom: 1px black;
+}
+
+.top-middle {
+    padding: 3em;
+    text-align: center;
+    border-bottom: 1px black;
+}
